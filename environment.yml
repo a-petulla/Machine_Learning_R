@@ -2,6 +2,6 @@ name: example-environment
 channels:
   - conda-forge
   - default
-dependencies:
   - r=4.0
-  - caret
+dependencies:
+  - r-caret

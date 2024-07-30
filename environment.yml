@@ -6,3 +6,4 @@ dependencies:
   - r=4.0
   - r-caret
   - r-ellipse
+  - r-kernlab

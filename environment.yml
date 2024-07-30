@@ -5,5 +5,8 @@ channels:
 dependencies:
   - r=4.0
   - r-caret
-  - r-ellipse
+  - r-mass
+  - r-rpart
+  - r-class
   - r-kernlab
+  - r-randomforest
